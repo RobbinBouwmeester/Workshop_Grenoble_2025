@@ -65,5 +65,5 @@
   "output_directory": "./",
   "mzml_paths": [
     "Velos005137.mgf"
-  ]       
+  ]
 }
