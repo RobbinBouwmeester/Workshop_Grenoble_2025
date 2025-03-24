@@ -56,7 +56,7 @@
   "deisotope": false,
   "chimera": false,
   "wide_window": false,
-  "predict_rt": false,
+  "predict_rt": true,
   "min_peaks": 15,
   "max_peaks": 150,
   "min_matched_peaks": 6,
