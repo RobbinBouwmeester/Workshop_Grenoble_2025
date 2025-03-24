@@ -64,6 +64,6 @@
   "report_psms": 1,
   "output_directory": "./",
   "mzml_paths": [
-    "Velos005137.mgf",
+    "Velos005137.mgf"
   ]       
 }
