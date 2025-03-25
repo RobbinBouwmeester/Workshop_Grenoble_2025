@@ -25,7 +25,7 @@
     "max_variable_mods": 2,
     "decoy_tag": "rev_",
     "generate_decoys": true,
-    "fasta": "merged.fasta"
+    "fasta": "combined_fasta.fasta"
   },
   "quant": {
     "lfq": true,
