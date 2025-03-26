@@ -38,14 +38,14 @@
   },
   "precursor_tol": {
     "ppm": [
-      -20,
-      20
+      -50,
+      50
     ]
   },
   "fragment_tol": {
-    "ppm": [
-     -20,
-     20
+    "Da": [
+     -0.5,
+     0.5
     ]
   },
   "precursor_charge": [2, 4],
