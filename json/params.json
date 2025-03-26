@@ -43,9 +43,9 @@
     ]
   },
   "fragment_tol": {
-    "da": [
-     -0.5,
-     0.5
+    "ppm": [
+     -50,
+     50
     ]
   },
   "precursor_charge": [2, 4],
