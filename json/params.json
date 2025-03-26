@@ -37,9 +37,9 @@
     }
   },
   "precursor_tol": {
-    "ppm": [
-      -50,
-      50
+    "da": [
+      -500,
+      100
     ]
   },
   "fragment_tol": {
