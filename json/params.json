@@ -38,8 +38,8 @@
   },
   "precursor_tol": {
     "da": [
-      -50,
-      50
+      -500,
+      100
     ]
   },
   "fragment_tol": {
